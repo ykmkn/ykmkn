@@ -2,3 +2,4 @@
 - 👀 I’m interested in parenting, reading
 - 🌱 I’m currently learning React, HTML, CSS
 - 📫 How to reach me https://x.com/Ykmrykc
+- 🏃 My activity https://ykmkn.github.io/
